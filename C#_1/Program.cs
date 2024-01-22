@@ -1,9 +1,11 @@
-﻿using System;
+using System;
 class HelloWorld
 {
     static void Main()
     {
         int number;
+        int sum = 0;
+        int raz = 0;
         for (int i = 0; i == 0;)
         {
             Console.Write("Введите число. Число 0 приведет к завершению программы:");
@@ -15,14 +17,12 @@ class HelloWorld
             }
             if (number % 2 == 0)
             {
-                int odd = number;
-                int sum = number + odd;
+                sum+=number;
                 Console.WriteLine($"Сумма четных чисел {sum}");
             }
             else if (number % 2 != 0)
             {
-                int even = number;
-                int raz = number - even;
+                raz-=number;
                 Console.WriteLine($"Разность нечетных чисел {raz}");
             }
         }
