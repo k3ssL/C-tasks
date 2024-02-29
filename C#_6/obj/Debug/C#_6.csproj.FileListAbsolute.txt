@@ -1,0 +1,7 @@
+D:\ИСП-21\Гареев Алексей\a\C#_6\bin\Debug\C#_6.exe.config
+D:\ИСП-21\Гареев Алексей\a\C#_6\bin\Debug\C#_6.exe
+D:\ИСП-21\Гареев Алексей\a\C#_6\bin\Debug\C#_6.pdb
+D:\ИСП-21\Гареев Алексей\a\C#_6\obj\Debug\C#_6.csproj.AssemblyReference.cache
+D:\ИСП-21\Гареев Алексей\a\C#_6\obj\Debug\C#_6.csproj.CoreCompileInputs.cache
+D:\ИСП-21\Гареев Алексей\a\C#_6\obj\Debug\C#_6.exe
+D:\ИСП-21\Гареев Алексей\a\C#_6\obj\Debug\C#_6.pdb
